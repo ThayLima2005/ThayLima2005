@@ -24,11 +24,6 @@ Sempre em busca de crescimento profissional e novos conhecimentos! 🚀
 
 ---
 
-## 📊 Estatísticas GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThayLima2005&show_icons=true&theme=dracula)
-
----
-
 ## 📫 Contato
-- 💼 LinkedIn: [https://linkedin.com/in/seu-link](https://www.linkedin.com/in/thayssa-lima-83510a223  )
-- 🌐 Portfólio: [https://seusite.com](https://portfolio-git-master-thayssalimaam07-8745s-projects.vercel.app/)
+- 💼 LinkedIn: [https://linkedin.com/in/thayssalima-link](https://www.linkedin.com/in/thayssa-lima-83510a223  )
+- 🌐 Portfólio: [https://portfoliothayssaLima.com](https://portfolio-git-master-thayssalimaam07-8745s-projects.vercel.app/)
