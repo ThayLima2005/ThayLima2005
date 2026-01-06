@@ -2,7 +2,7 @@
 
 💻 Desenvolvedora de Sistemas
 🎓 Análise e Desenvolvimento de Sistemas  
-🚀 Foco em desenvolvimento web e sistemas
+🚀 Foco em desenvolvimento web
 
 ---
 
